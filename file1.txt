@@ -1,1 +1,2 @@
 hello world i am starting with git
+hello world i starting with git stash
